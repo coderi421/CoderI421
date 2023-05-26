@@ -1,4 +1,5 @@
-# ℋℯ𝓁𝓁ℴ <img src="https://cdn-icons-png.flaticon.com/512/4341/4341069.png" width="30px" /> 
+# ℋℯ𝓁𝓁ℴ <picture><img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://cdn-icons-png.flaticon.com/512/4341/4341069.png" width="30px"></picture>
+
 - 👋 Hi, I’m @CoderI421, a software engineer and gopher~
 - 📒 My blog: https://www.cnblogs.com/CoderI/
 
