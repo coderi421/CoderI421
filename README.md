@@ -3,8 +3,6 @@
 - 👋 Hi, I’m @coderi421, a software engineer and gopher~~
 - 📒 My blog: https://www.cnblogs.com/CoderI/
 
-There's no silver bulletes~
-
 ###### It made me discovery how beautiful the life is.
 
 ## Languages & Tools
