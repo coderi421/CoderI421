@@ -27,9 +27,5 @@
 </a>
 
 <a href="https://github.com/coderi421">
-  <img align="center" width="52%" src="https://github-readme-stats.vercel.app/api?username=CoderI421&theme=nightowl&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
-</a>
-
-<a href="https://github.com/coderi421">
   <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=coderi421&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" />
 </a>
