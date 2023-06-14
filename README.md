@@ -1,6 +1,9 @@
 # ℋℯ𝓁𝓁ℴ <picture><img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://cdn-icons-png.flaticon.com/512/4341/4341069.png" width="30px"></picture>
 
-- 👋 Hi, I’m @coderi421, a software engineer and gopher~~
+- 👋 Hi, I’m @coderi421
+- 🔭 Gopher
+- 😄 Fullstack Web Creator
+- 👯 I'm great husband and an awesome dad
 - 📒 My blog: https://www.cnblogs.com/CoderI/
 
 ###### It made me discovery how beautiful the life is.
