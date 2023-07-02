@@ -6,7 +6,7 @@
 - 👯 I'm great husband and an awesome dad
 - 📒 My blog: https://www.cnblogs.com/CoderI/
 
-###### It made me discovery how beautiful the life is.
+###### It made me discovery how beautiful the life is~~
 
 ## Languages & Tools
 
