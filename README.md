@@ -6,8 +6,8 @@
 - 👯 I'm great husband and an awesome dad
 - 📒 My blog: https://www.cnblogs.com/CoderI/
 
-##### Steady soul amidst the storms~~
-##### In tranquility, find the strength to navigate life's uncertainties with grace and resilience~~
+ ##### Steady soul amidst the storms~~
+ ##### In tranquility, find the strength to navigate life's uncertainties with grace and resilience~~
 ###### It made me discovery how beautiful the life is~~
 
 ## Languages & Tools
